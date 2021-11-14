@@ -1,5 +1,10 @@
+
 .App {
   text-align: left;
+  background-image: url('https://images.creativemarket.com/0.1.0/ps/4658270/1829/910/m1/fpnw/wm1/bright-red-curtain-with-bright-spotlight-lighting-retro-theater-stage-wide-background-.jpg?1529941466&s=3a1a039bd36f6beecc1fe40d6af665f5');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
 }
 
 .App-logo {
@@ -23,6 +28,10 @@
 
 .App-content{  
   padding: 0 1rem;
+}
+
+* {
+  color:whitesmoke;
 }
 
 @keyframes App-logo-spin {

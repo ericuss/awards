@@ -39,23 +39,6 @@ export const Awards: FC = () => {
             }
         </div>
     </>
-        // <Tabs selectedIndex={tabIndex} onSelect={index => setTabIndex(index)}>
-        //     <TabList>
-        //         <Tab>Dev</Tab>
-        //         <Tab>QA</Tab>
-        //         <Tab>Local</Tab>
-        //     </TabList>
-
-        //     <TabPanel>
-        //         <TokenDetails env="dev" settings={SettingsDevJson}></TokenDetails>
-        //     </TabPanel>
-        //     <TabPanel>
-        //         <TokenDetails env="qa" settings={SettingsQAJson}></TokenDetails>
-        //     </TabPanel>
-        //     <TabPanel>
-        //         <TokenDetails env="local" settings={SettingsLocalJson}></TokenDetails>
-        //     </TabPanel>
-        // </Tabs>
     );
 }
 

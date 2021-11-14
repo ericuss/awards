@@ -1,1 +1,2 @@
-# awards
+# Awards
+![Awards](docs/awards.gif)

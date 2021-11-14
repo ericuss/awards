@@ -1,0 +1,68 @@
+{
+   "books":[
+    {
+        "votes":0,
+        "data":[
+            {
+                "displayName": "La isla de la sombra",
+                "image": "https://covers.alibrate.com/b/5ce3f5c770c77e650eb33057/a4d14f25-44d4-41c2-a055-1896388fc1c1/share"
+            }
+        ]
+    },
+    {
+        "votes":1,
+        "data":[
+            {
+                "displayName": "Misery",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554220401i/10614.jpg"
+            },
+            {
+                "displayName": "Artemis",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494273579i/34928122.jpg"
+            },
+            {
+                "displayName": "Guía del autoestopista galáctico",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521495953i/6691227.jpg"
+            },
+            {
+                "displayName": "Un lío de mil demonios",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371648236i/18103845.jpg"
+            },
+            {
+                "displayName": "Instrumental ",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432134260i/21896497.jpg"
+            },
+            {
+                "displayName": "Vozdevieja",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547630534i/43587603.jpg"
+            },
+            {
+                "displayName": "Los asquerosos",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560440743i/41587567.jpg"
+            },
+            {
+                "displayName": "Ubik",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327995569i/22590.jpg"
+            },
+            {
+                "displayName": "Que no muera la aspidistra",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529154437i/21941919.jpg"
+            },
+            {
+                "displayName": "Luces de bohemia",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486332769i/65213.jpg"
+            }
+        ]
+    },
+    
+    {
+        "votes":27,
+        "data":[
+            {
+                "displayName": "Redshirts",
+                "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562963532i/14896596.jpg"
+            }
+        ]
+    }
+   ]
+}
